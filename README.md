@@ -1,10 +1,10 @@
 # Temp-respo
-sample respoitory for class assignment 
+sample respoitory for class assignment readme edition
 #Title
 
-lorem pisum
+lorem pisum hi
 
-## dev setup
+## dev setup dev
 
-##test setup
+## test setup nice
 
